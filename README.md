@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Divya Bansal 👋
 
-<!--
-**divyabansal24/divyabansal24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE student at SRMIST Chennai (Class of 2027). I build full-stack web apps and data/ML projects.
 
-Here are some ideas to get you started:
+**Tech I use:** Python · JavaScript · React · Node.js · Express · MongoDB · PostgreSQL · dbt · scikit-learn · C/C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⭐ Featured projects
+- **[SkillBridge AI](https://github.com/divyabansal24/skillbridge-ai)**: AI placement-prep platform with resume ATS scoring, skill-gap analysis and Gemini-powered mock interviews (React, Node, MongoDB)
+- **[India Tech Salary Analysis](https://github.com/divyabansal24/india-salary-analysis)**: Data pipeline and dashboard comparing developer salaries and cost of living across 16 Indian cities (PostgreSQL, dbt, scikit-learn, Plotly Dash)
+- **[Intruder Alert System](https://github.com/divyabansal24/Intruder-Alert-System)**: C++ security alert system
+
+📫 [LinkedIn](https://www.linkedin.com/in/divya-bansal2412) · divyab2412@gmail.com
+
